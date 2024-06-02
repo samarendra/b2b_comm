@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "."
+    }
+  ],
+  "settings": {
+    "dotnet.testWindow.useTestingPlatformProtocol": true,
+    "dotnet.preferVisualStudioCodeFileSystemWatcher": true,
+    "dotnet.automaticallySyncWithActiveItem": true,
+    "dotnet.automaticallyCreateSolutionInWorkspace": true
+  }
+}
