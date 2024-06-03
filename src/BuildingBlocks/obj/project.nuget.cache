@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "HCcZnipetOU=",
+  "success": true,
+  "projectFilePath": "/Users/samarendrakishorghosh/GitHub/b2b_comm/src/BuildingBlocks/BuildingBlocks.csproj",
+  "expectedPackageFiles": [
+    "/Users/samarendrakishorghosh/.nuget/packages/mapster/7.4.0/mapster.7.4.0.nupkg.sha512",
+    "/Users/samarendrakishorghosh/.nuget/packages/mapster.core/1.2.1/mapster.core.1.2.1.nupkg.sha512",
+    "/Users/samarendrakishorghosh/.nuget/packages/mediatr/12.2.0/mediatr.12.2.0.nupkg.sha512",
+    "/Users/samarendrakishorghosh/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/samarendrakishorghosh/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

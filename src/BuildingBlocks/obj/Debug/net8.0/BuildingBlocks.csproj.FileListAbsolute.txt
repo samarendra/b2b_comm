@@ -1,0 +1,13 @@
+/Users/samarendrakishorghosh/GitHub/b2b_comm/src/BuildingBlocks/bin/Debug/net8.0/BuildingBlocks.deps.json
+/Users/samarendrakishorghosh/GitHub/b2b_comm/src/BuildingBlocks/bin/Debug/net8.0/BuildingBlocks.dll
+/Users/samarendrakishorghosh/GitHub/b2b_comm/src/BuildingBlocks/bin/Debug/net8.0/BuildingBlocks.pdb
+/Users/samarendrakishorghosh/GitHub/b2b_comm/src/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.csproj.AssemblyReference.cache
+/Users/samarendrakishorghosh/GitHub/b2b_comm/src/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samarendrakishorghosh/GitHub/b2b_comm/src/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.AssemblyInfoInputs.cache
+/Users/samarendrakishorghosh/GitHub/b2b_comm/src/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.AssemblyInfo.cs
+/Users/samarendrakishorghosh/GitHub/b2b_comm/src/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.csproj.CoreCompileInputs.cache
+/Users/samarendrakishorghosh/GitHub/b2b_comm/src/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.sourcelink.json
+/Users/samarendrakishorghosh/GitHub/b2b_comm/src/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.dll
+/Users/samarendrakishorghosh/GitHub/b2b_comm/src/BuildingBlocks/obj/Debug/net8.0/refint/BuildingBlocks.dll
+/Users/samarendrakishorghosh/GitHub/b2b_comm/src/BuildingBlocks/obj/Debug/net8.0/BuildingBlocks.pdb
+/Users/samarendrakishorghosh/GitHub/b2b_comm/src/BuildingBlocks/obj/Debug/net8.0/ref/BuildingBlocks.dll
